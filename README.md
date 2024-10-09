@@ -1,6 +1,6 @@
 Hey! viewers..
 
-I performed data analysis on Zomato datas and tried to find out useful insights from it which are mentioned below.
+I performed data analysis on Zomato's data csv file and tried to find out some useful insights from it which are mentioned below.
 
 1). What type of restaurant is highly ordered from the customers.
 2). Number of votes that each restaurant got.
